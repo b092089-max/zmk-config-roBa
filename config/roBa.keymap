@@ -64,8 +64,9 @@
         };
 
         double_quotation {
-            bindings = <&kp JP_DQUOTE>;
+            bindings = <&kp LS(N2)>;
             key-positions = <20 21>;
+            timeout-ms = <50>;
         };
 
         eq {
