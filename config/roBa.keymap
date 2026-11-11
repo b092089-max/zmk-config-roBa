@@ -200,7 +200,7 @@
         DESKTOP {
             bindings = <
 &trans &trans &trans &trans &trans       &trans &trans &trans &trans &trans
-&trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+&trans &trans &trans &trans &trans &trans   &trans &trans &kp INT_MUHENKAN &trans &kp INT_HENKAN &trans
 &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
 &trans &trans &trans &trans &trans &trans &trans &trans &trans
             >;
