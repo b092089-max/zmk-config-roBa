@@ -38,8 +38,8 @@
             <&kp LC(LG(LEFT_ARROW))>,
             <&kp LG(TAB)>,
             <&kp LG(D)>;
-        tick = <90>;
-        wait-ms = <700>;
+        tick = <150>;
+        wait-ms = <400>;
         tap-ms = <20>;
     };
 };
